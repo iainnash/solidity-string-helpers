@@ -17,3 +17,13 @@ roadmap:
 
 current deployments:
 
+| network id | network name | contract address | scanner link |
+| --- | --- | --- | --- |
+| 1   | mainnet | not deployed | not deployed |
+| 2   |         | not deployed | not deployed |
+| 3   | mainnet | not deployed | not deployed |
+| 4   | mainnet | not deployed | not deployed |
+| x   | x       | x            | x            |
+| --- | --- | --- | --- |
+
+
